@@ -1,0 +1,64 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: isvc.aux
+The style file: splncs.bst
+Database file #1: isvc.bib
+Warning--I didn't find a database entry for "bal:cha:gra:pae"
+Warning--there's no year in Laan
+You can't pop an empty literal stack for entry Laan
+while executing---line 2139 of file splncs.bst
+Name 1 in "Jin Chen, Huaigu Cao, Rohit Prasad, Anurag Bhardwaj, and Prem Natarajan" has a comma at the end for entry CCPBN10
+while executing---line 2139 of file splncs.bst
+Too many commas in name 1 of "Jin Chen, Huaigu Cao, Rohit Prasad, Anurag Bhardwaj, and Prem Natarajan" for entry CCPBN10
+while executing---line 2139 of file splncs.bst
+Name 1 in "Cheng-Lin Liu, Masashi Koga, and Hiromichi Fujisawa." has a comma at the end for entry LKF05
+while executing---line 2139 of file splncs.bst
+Name 1 in "N. Ahmed, T. Natarajan, and K.R. Rao." has a comma at the end for entry ANR74
+while executing---line 2139 of file splncs.bst
+Name 1 in "J.H. AlKhateeb, Jinchang Ren, Jianmin Jiang, S.S. Ipson, and H. El Abed." has a comma at the end for entry ARJIA08
+while executing---line 2139 of file splncs.bst
+Too many commas in name 1 of "J.H. AlKhateeb, Jinchang Ren, Jianmin Jiang, S.S. Ipson, and H. El Abed." for entry ARJIA08
+while executing---line 2139 of file splncs.bst
+Warning--empty booktitle in NIST19
+You've used 12 entries,
+            2043 wiz_defined-function locations,
+            574 strings with 5801 characters,
+and the built_in function-call counts, 3824 in all, are:
+= -- 428
+> -- 86
+< -- 15
++ -- 34
+- -- 22
+* -- 232
+:= -- 483
+add.period$ -- 24
+call.type$ -- 12
+change.case$ -- 11
+chr.to.int$ -- 0
+cite$ -- 14
+duplicate$ -- 216
+empty$ -- 384
+format.name$ -- 22
+if$ -- 994
+int.to.chr$ -- 0
+int.to.str$ -- 12
+missing$ -- 13
+newline$ -- 62
+num.names$ -- 12
+pop$ -- 48
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 148
+stack$ -- 0
+substring$ -- 228
+swap$ -- 115
+text.length$ -- 15
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 2
+while$ -- 30
+width$ -- 14
+write$ -- 147
+(There were 7 error messages)

@@ -1,0 +1,70 @@
+This is BibTeX, Version 0.99d (TeX Live 2013/Debian)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: isvc_CamReady.aux
+The style file: splncs.bst
+Database file #1: isvc.bib
+I was expecting a `,' or a `}'---line 96 of file isvc.bib
+ :   
+ :   volume =  "1",
+(Error may have been on previous line)
+I'm skipping whatever remains of this entry
+Warning--I didn't find a database entry for "bal:cha:gra:pae"
+Name 1 in "Jin Chen, Huaigu Cao, Rohit Prasad, Anurag Bhardwaj, and Prem Natarajan" has a comma at the end for entry CCPBN10
+while executing---line 2139 of file splncs.bst
+Too many commas in name 1 of "Jin Chen, Huaigu Cao, Rohit Prasad, Anurag Bhardwaj, and Prem Natarajan" for entry CCPBN10
+while executing---line 2139 of file splncs.bst
+Name 1 in "Cheng-Lin Liu, Masashi Koga, and Hiromichi Fujisawa." has a comma at the end for entry LKF05
+while executing---line 2139 of file splncs.bst
+Name 1 in "N. Ahmed, T. Natarajan, and K.R. Rao." has a comma at the end for entry ANR74
+while executing---line 2139 of file splncs.bst
+Name 1 in "P. F. Felzenszwalb, R. B. Grishick, D. McAllester, and D. Ramanan" has a comma at the end for entry FGMR09
+while executing---line 2139 of file splncs.bst
+Name 1 in "T. Ojala, M. Pietikäinen, and D. Harwood" has a comma at the end for entry OPH94
+while executing---line 2139 of file splncs.bst
+Warning--empty booktitle in NIST19
+Name 1 in "S. Young, J. Odell, D. Ollason, V. Valtchev, and P. Woodland" has a comma at the end for entry Young
+while executing---line 2139 of file splncs.bst
+Too many commas in name 1 of "S. Young, J. Odell, D. Ollason, V. Valtchev, and P. Woodland" for entry Young
+while executing---line 2139 of file splncs.bst
+You've used 15 entries,
+            2043 wiz_defined-function locations,
+            594 strings with 6070 characters,
+and the built_in function-call counts, 4717 in all, are:
+= -- 527
+> -- 107
+< -- 17
++ -- 42
+- -- 27
+* -- 277
+:= -- 590
+add.period$ -- 30
+call.type$ -- 15
+change.case$ -- 14
+chr.to.int$ -- 0
+cite$ -- 16
+duplicate$ -- 269
+empty$ -- 480
+format.name$ -- 27
+if$ -- 1227
+int.to.chr$ -- 0
+int.to.str$ -- 15
+missing$ -- 16
+newline$ -- 77
+num.names$ -- 15
+pop$ -- 66
+preamble$ -- 1
+purify$ -- 0
+quote$ -- 0
+skip$ -- 185
+stack$ -- 0
+substring$ -- 288
+swap$ -- 140
+text.length$ -- 17
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 0
+warning$ -- 1
+while$ -- 35
+width$ -- 17
+write$ -- 179
+(There were 9 error messages)

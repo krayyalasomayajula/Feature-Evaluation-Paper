@@ -1,0 +1,87 @@
+\begin{thebibliography}{10}
+
+\bibitem{Fink09}
+Plotz, T., Fink, G.A.:
+\newblock Markov models for offline handwriting recognition: A survey.
+\newblock Int. J. Docu. Analy. Reco. \textbf{12} (2009)  269--298
+
+\bibitem{Rabi89}
+Rabiner, L.R.:
+\newblock A tutorial on hidden markov models and selected applications in
+  speech recognition.
+\newblock Proc. Of the IEEE \textbf{70} (1989)  257--286
+
+\bibitem{MartiBunke02}
+Marti, U., Bunke, H.:
+\newblock Using a statistical language model to improve the performance of an
+  hmm-based cursive handwriting recognition systems. in hidden markov models:
+  applications in computer vision.
+\newblock World Scientiﬁc Publishing Co., Inc. \textbf{--} (2002)  65--90
+
+\bibitem{CCPBN10}
+Jin~Chen, Huaigu~Cao, R.P.A.B., Natarajan, P.:
+\newblock Gabor features for offline arabic handwriting recognition.
+\newblock In: Proc. Int. Work. Doc. Analy. Sys. Volume 9th., IAPR (2010)
+  53--58
+
+\bibitem{LKF05}
+Cheng-Lin~Liu, M.K., Fujisawa., H.:
+\newblock Gabor feature extraction for character recognition: Comparison with
+  gradient feature.
+\newblock In: Proc. Int. Conf. Doc. Analy. Reco. Volume 8th., IEEE (2005)
+  121--125
+
+\bibitem{ANR74}
+N.~Ahmed, T.N., Rao., K.:
+\newblock Discrete cosine transfom.
+\newblock In: Trans. on Computers. Volume 23th., IEEE (1974)  90--93
+
+\bibitem{DT05}
+Dalal, N., Triggs, B.:
+\newblock Histograms of oriented gradients for human detection.
+\newblock Proc. CVPR (2005)
+
+\bibitem{FGMR09}
+P.~F.~Felzenszwalb, R. B.~Grishick, D.M., Ramanan, D.:
+\newblock Object detection with discriminatively trained part based models.
+\newblock In: PAMI. Volume 32nd., IEEE (2009)  1627 -- 1645
+
+\bibitem{Bosch07a}
+Bosch, A., Zisserman, A., Munoz, X.:
+\newblock Image classification using random forests and ferns.
+\newblock In: IEEE International Conference on Computer Vision. (2007)
+
+\bibitem{OPH94}
+T.~Ojala, M.P., Harwood, D.:
+\newblock Performance evaluation of texture measures with classification based
+  on kullback discrimination of distributions.
+\newblock Proc. ICPR (1994)
+
+\bibitem{UJIPen}
+D.~Llorens, e.a.:
+\newblock The ujipenchars database: A pen-based database of isolated
+  handwritten characters.
+\newblock In: Proc. Int. Lang. Res. Eval. Volume 6th., LREC (2008)  2647--2651
+
+\bibitem{NIST19}
+Grother, P.J.:
+\newblock Nist special database 19 handprinted forms and characters database,
+  National Institute of Standards and Technology (1995)
+
+\bibitem{Young}
+S.~Young, J.~Odell, D.O.V.V., Woodland, P.:
+\newblock The HTK Book: Hidden Markov Models Toolkit V2.1.
+\newblock Wiley-Interscience. Wiley (1997)
+
+\bibitem{LeCun98}
+Y.~LeCun, L.~Bottou, Y.B., Haffner, P.:
+\newblock Gradient-based learning applied to document recognition.
+\newblock In: Proceedings of the IEEE. Volume 86th., IEEE (1998)  2278--2324
+
+\bibitem{Moustafa11}
+Moustafa, R.:
+\newblock Parallel coordinate and parallel coordinate density plots.
+\newblock In: Interdisciplinary Reviews: Computational Statistics. Volume Vol
+  3(2)., Wiley (2011)  134--148
+
+\end{thebibliography}
